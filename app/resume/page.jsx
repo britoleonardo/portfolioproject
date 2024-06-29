@@ -172,7 +172,7 @@ const Resume = () => {
           className="flex flex-col xl:flex-row gap-[60px]"
         >
           <TabsList
-            className="flex flex-col w-full max-w-[380px] mx-auto xl:mx-auto xl:mx-0
+            className="flex flex-col w-full max-w-[380px] mx-auto xl:mx-auto
           gap-6"
           >
             <TabsTrigger value="experience">Experiência</TabsTrigger>
